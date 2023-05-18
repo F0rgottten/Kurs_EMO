@@ -1,0 +1,5 @@
+﻿  Monkeys.cpp
+C:\Users\Kirill\source\repos\Monkeys\Monkeys\Monkeys.cpp(321,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Kirill\source\repos\Monkeys\Monkeys\Monkeys.cpp(322,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Kirill\source\repos\Monkeys\Monkeys\Monkeys.cpp(382,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Monkeys.vcxproj -> C:\Users\Kirill\source\repos\Monkeys\x64\Debug\Monkeys.exe
